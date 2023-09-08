@@ -7,6 +7,7 @@ package netlabJBus;
  */
 
 public class JBus {
+    //Menyelesaikan Modul 2
     public static void main(String[] args) {
         // Test cases for the implemented methods
         System.out.println("Travel ID: " + getTravelId());
