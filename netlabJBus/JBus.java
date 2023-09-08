@@ -7,6 +7,7 @@ package netlabJBus;
  */
 
 public class JBus {
+    //Menyelesaikan CS Modul 2
     public static void main(String[] args) {
         // Test cases for the implemented methods
         System.out.println("Travel ID: " + getTravelId());
@@ -36,7 +37,7 @@ public class JBus {
         System.out.println("Total Price: " + getTotalPrice(5000, 1) + " 5250");
         System.out.println("Total Price: " + getTotalPrice(0, 2) + " 0");
     }
-
+    
     public static int getTravelId() {
         return 0;
     }
